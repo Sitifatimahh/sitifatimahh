@@ -1,0 +1,158 @@
+body
+{
+    background-color: #431798;
+    background-image: linear-gradient(190deg, #431798 8%, #06031f 97%);
+
+
+}
+.main-nav
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px
+}
+.main-nav li
+{
+    display: inline-block;
+}
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    margin-right: 10px;
+    margin-left: 20px;
+    b
+}
+.main-nav li.active a
+{
+    border: 1px solid white;
+    border-radius: 17px;
+    margin-left: 30px;
+}
+.zubia
+{
+    float: left;
+    list-style: none;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.zubia li
+{
+    display: inline-block;
+       
+}
+.zubia li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+}
+.logo
+{
+    float: left;
+    list-style: none;
+    margin-left: -47px;
+    margin-top: 70px;
+}
+ .logo li
+{
+     display: inline-block;
+}
+ .logo li a
+{
+     color: white;
+     text-decoration: none;
+     padding: 12px 20px;
+     font-family: "Roboto", sans-serif;
+}
+.text
+{
+    float: left;
+    margin-top:143px;
+    margin-left: -70px;
+}
+.text li
+{
+    display: inline-block;
+}
+.text li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20 px;
+    font-family: "Roboto",sans-serif;
+    font-size: 15px;
+}
+.ilus
+{
+    width: -5;
+    height: auto;
+    float: right;
+    margin-top: 60px;
+    margin-right: -50px;
+}
+.tulisan
+{
+    float: left;
+    list-style: none;
+    margin-top: 90px;
+    margin-left: 125px; 
+}
+.tulisan li
+{
+    display: inline-block;
+}
+.tulisan li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20 px;
+    font-family: "Roboto", sans-serif;
+    font-size: 60px;
+}
+.tulisanakhir
+{
+    float: left;
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 102px;
+}
+.tulisanakhir li
+{
+    display: inline-block;
+}
+.tulisanakhir li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+.orange
+{
+    float: left;
+    list-style: none;
+    margin-top: 50px;
+    margin-left: 120px;
+    font-family: "Roboto",sans-serif;
+}
+.orange li
+{
+   display: inline-block;
+}
+.orange li a
+{
+    background-color: orangered;
+    color: white;
+    text-decoration:none;
+    border-radius: 35px;
+    padding: 15px 25px;
+    font-family: "Roboto",sans-serif;
+    font-size: 15px;
+}
